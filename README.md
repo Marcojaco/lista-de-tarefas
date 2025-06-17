@@ -1,15 +1,15 @@
 # lista-de-tarefas
 #uma lista de tarefas simples com python, sou iniciante
 
-print('LISTA DE TAREFAS')
 
 
-Alista = ['lavar prato', 'almoçar', 'tomar banho']
-print(Alista)
+   
+    print('LISTA DE TAREFAS')
 
-while(True):
-
-    add = input('você quer adicionar, remover ou sair ? : ')
+    Alista = ['lavar prato', 'almoçar', 'tomar banho']
+    print(Alista)
+    
+    while(True):
     
     if add == 'sair':
         print('tchaul')
